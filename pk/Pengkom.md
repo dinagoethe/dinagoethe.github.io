@@ -7,4 +7,4 @@
 2. [Matlab-- khusus FTMD](https://drive.google.com/file/d/10EizsK63e9LO7HpRqq4Fo8GoS7DJBW-S/view?usp=drivesdk)
 
 ### Praktek
-1. [P01 (26/09/2022)]()
+1. [P01 (26/09/2022)](https://github.com/dinagoethe/dinagoethe.github.io/blob/master/pk/praktek1.md)
