@@ -6,5 +6,5 @@
 1. [Python-- deadline 16/09/22 21.00 WIB](https://drive.google.com/file/d/10EpGvNo2cfC0MxfcRSRl_f-FlPASFt72/view?usp=drivesdk)
 2. [Matlab-- khusus FTMD](https://drive.google.com/file/d/10EizsK63e9LO7HpRqq4Fo8GoS7DJBW-S/view?usp=drivesdk)
 
-### Praktet
+### Praktek
 1. [P01 (26/09/2022)]()
